@@ -1,7 +1,7 @@
 # AutoAttendance
 Taking attendance is one of those things that seems small but ends up wasting a lot of time. For a classroom of around 60 students, it takes about 25 minutes every day. That's more than 12 hours every month spent just calling out names.
 
-So I made this.
+So I made this for my school St. Xavier's High School Kolhapur, for classes 5th to 10th.(each grade has 3 divisions- A B and C)
 
 AutoAttendance is a Python application that uses OpenCV and face recognition to automatically mark attendance. Just register each student's face once, enter their name and class, and set up a webcam at the school entrance or classroom. As students walk in, the program recognizes them and marks them present.
 
